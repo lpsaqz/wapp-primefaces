@@ -25,5 +25,3 @@ Page definition: <br/>
 <br />
 </p>
 
-</p>
-
